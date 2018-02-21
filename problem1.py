@@ -1,5 +1,5 @@
+# Multiples of 3 and 5
 import time
-
 
 def main():
     sumOf = 0
